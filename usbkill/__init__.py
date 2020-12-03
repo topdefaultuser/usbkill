@@ -1,1 +1,0 @@
-from .usbkill import go
